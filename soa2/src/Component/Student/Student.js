@@ -92,17 +92,7 @@ class Student extends Component{
             <td>trạng thái</td>
             <td>hành động</td>
           </tr>
-          <tr>
-            <td>1</td>
-            <td>Triệu Hoàng An</td>
-            <td>5</td>
-            <td>5</td>
-            <td>5</td>
-            <td><p>done</p></td>
-            <td><p>done</p></td>
-            <td>done</td>
-            <td />
-          </tr>
+          
         </tbody>
       </table>
          </div>
