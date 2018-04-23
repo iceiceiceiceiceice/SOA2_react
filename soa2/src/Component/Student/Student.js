@@ -79,22 +79,18 @@ class Student extends Component{
             <header className="w3-container" style={{paddingTop: 22}}>
                 <h5><b><i className="fa fa-dashboard" /> Thông báo điểm rèn luyện</b></h5>
             </header>
-            <table className="table table-condensed table-bordered table-striped">
-        <tbody>
-          <tr>
-            <td>STT</td>
-            <td>Họ và tên</td>
-            <td>Điểm 1</td>
-            <td>Điểm 2</td>
-            <td>Điểm 3</td>
-            <td>Lớp trưởng</td>
-            <td>CVHT</td>
-            <td>trạng thái</td>
-            <td>hành động</td>
-          </tr>
-          
-        </tbody>
-      </table>
+            <table class="table table-condensed table-bordered table-striped">
+                <tbody>
+                <tr>
+                    <td>STT</td>
+                    <td>Họ và tên</td>
+                    <td>Lớp trưởng</td>
+                    <td>CVHT</td>
+                    <td>trạng thái</td>
+                    <td>hành động</td>
+                </tr>
+                </tbody>
+            </table>
          </div>
         </div>
         );
